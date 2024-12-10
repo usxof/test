@@ -9,3 +9,6 @@ vypis_pozdrav(pozdrav="ahoj")
 #git commit -m "nejakej smysluplnej komentář"
 #git push
 #git pull
+#git fetch origin
+#git checkout nazev vetve
+#git branch
