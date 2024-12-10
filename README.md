@@ -4,7 +4,7 @@
 Tohle je testovací projekt
 
 ## Jak přispět?
-Můžete mi poslat peníze.
+Můžete mi poslat peníze nebo čokoládu.
 
 ## Kontakt
 nemám
