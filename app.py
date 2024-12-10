@@ -8,3 +8,5 @@ vypis_pozdrav(pozdrav="ahoj")
 #git add .
 #git commit -m "nejakej smysluplnej komentář"
 #git push
+
+# další komentář
