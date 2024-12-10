@@ -3,3 +3,8 @@ def vypis_pozdrav(pozdrav: str) -> None:
 
 
 vypis_pozdrav(pozdrav="ahoj")
+
+
+#git add .
+#git commit -m "nejakej smysluplnej komentář"
+#git push
